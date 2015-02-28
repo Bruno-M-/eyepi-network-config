@@ -1,0 +1,14 @@
+
+Source: eyepi-network-config
+Section: admin
+Priority: important
+Maintainer: Bruno Maitre <bruno.maitre@gmail.com>
+Build-Depends: debhelper (>= 7.0.0~), config-package-dev (>= 5.0)
+Standards-Version: 3.9.2
+
+Package: eyepi-network-config
+Architecture: all
+Depends: ${misc:Depends}
+Provides: ${diverted-files}
+Conflicts: ${diverted-files}
+Description: Eye Pi network configuration

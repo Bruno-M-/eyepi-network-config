@@ -1,4 +1,10 @@
-eyepi-network-config (1.0.0) stable; urgency=medium
+eyepi-network-config (1.1) stable; urgency=medium
+
+  * Add ifupdown and dhcp client to dependencies
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Sun, 01 Mar 2015 11:47:58 +0100
+
+eyepi-network-config (1.0) stable; urgency=medium
 
   * Initial release.
 

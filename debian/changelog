@@ -1,3 +1,9 @@
+eyepi-network-config (1.2) stable; urgency=medium
+
+  * Add net-tools package
+
+ -- Bruno Maitre <bruno.maitre@gmail.com>  Sun, 01 Mar 2015 14:34:14 +0100
+
 eyepi-network-config (1.1) stable; urgency=medium
 
   * Add ifupdown and dhcp client to dependencies

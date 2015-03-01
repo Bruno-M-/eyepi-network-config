@@ -8,7 +8,7 @@ Standards-Version: 3.9.2
 
 Package: eyepi-network-config
 Architecture: all
-Depends: ${misc:Depends}, ifupdown, isc-dhcp-client
+Depends: ${misc:Depends}, ifupdown, isc-dhcp-client, net-tools
 Provides: ${diverted-files}
 Conflicts: ${diverted-files}
 Description: Eye Pi network configuration
